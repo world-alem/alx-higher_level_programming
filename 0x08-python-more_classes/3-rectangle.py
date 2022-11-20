@@ -47,6 +47,9 @@ class Rectangle:
 
     def my_print(self):
         """print the rectangle with #"""
+        if self.width == 0:
+            return ''
+
         str = []
         for i in range(self.height):
             for j in range(self.width):
