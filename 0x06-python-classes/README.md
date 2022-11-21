@@ -1,1 +1,1 @@
-# Square class with python
+# Python square class

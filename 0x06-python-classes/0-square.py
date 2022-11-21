@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-"""This is a square class project"""
+"""0-square"""
 
 
 class Square:
-    """the square class"""
+    """The square class"""
 
     def __init__(self):
-        """the init method"""
+        """__init__ method"""
         pass
