@@ -3,7 +3,8 @@
 
 
 class Square:
+    """the square class"""
 
     def __init__(self):
-        """the square class"""
+        """the init method"""
         pass
