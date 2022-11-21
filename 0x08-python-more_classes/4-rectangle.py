@@ -60,3 +60,8 @@ class Rectangle:
 
     def __str__(self):
         return self.my_print()
+
+    def __repr__(self):
+        rect = "Rectangle(" + str.(self.width)
+        rect += ", " + str(self.height) + ")"
+        return rect
