@@ -60,9 +60,3 @@ class Rectangle:
 
     def __str__(self):
         return self.my_print()
-
-    def __repr__(self):
-        """this is the official string representation"""
-        rect = "Rectangle(" + str.(self.width)
-        rect += ", " + str(self.height) + ")"
-        return rect
